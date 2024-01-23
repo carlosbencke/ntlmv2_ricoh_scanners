@@ -1,3 +1,12 @@
+
+#
+# Software: config_ntlmv2.py
+# Versão 1.0
+# Description: Habilita  o protocolo NTLMV2 nas impressoras RICOH por meio do telnet.
+#
+# Carlos Bencke <bencke.carlos@gmail.com>
+#
+
 import telnetlib
 import time
 
